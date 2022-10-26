@@ -7,7 +7,7 @@
 - To run this project do the following:
 
     Pre-requisites: Python, pip and django should be installed in your system. All the coding is done using VScode.
-    1. To install the dependencies:
+    1. To install the dependencies: \
        `pip install -r requirements.txt`
     2. Make the migrations
         `python manage.py makemigrations`
