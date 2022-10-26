@@ -8,16 +8,16 @@
 
     Pre-requisites: Python, pip and django should be installed in your system. All the coding is done using VScode.
     1. To install the dependencies: \
-       `pip install -r requirements.txt` \
+       `pip install -r requirements.txt` 
     2. Make the migrations:\
-        `python manage.py makemigrations` \
+        `python manage.py makemigrations` 
     3. Migrate the tables: \
-        `python manage.py migrate` \
+        `python manage.py migrate` 
     4. Create a superuser for your project: \  
-        `python manage.py createsuperuser` \
+        `python manage.py createsuperuser` 
         This will prompt you to enter username, email and password for the superuser. \
     5. Run the server using: \
-        `python manage.py runserver` \
+        `python manage.py runserver` 
         
 - User panel: \ 
   -> Login or register site. \
