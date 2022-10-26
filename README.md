@@ -14,7 +14,7 @@
     3. Migrate the tables: \
         `python manage.py migrate` 
     4. Create a superuser for your project: \
-        `python manage.py createsuperuser` 
+        `python manage.py createsuperuser`   
         This will prompt you to enter username, email and password for the superuser. \
     5. Run the server using: \
         `python manage.py runserver` 
