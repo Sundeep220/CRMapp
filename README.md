@@ -15,7 +15,7 @@
         `python manage.py migrate` 
     4. Create a superuser for your project: \
         `python manage.py createsuperuser`   
-        This will prompt you to enter username, email and password for the superuser. \
+        This will prompt you to enter username, email and password for the superuser.  
     5. Run the server using: \
         `python manage.py runserver` 
         
@@ -23,7 +23,7 @@
   -> Login or register site. \
   -> View the dashboard designed for customerand view their orders and their status. \
   -> View or change their account setting like username, email, profile pic. \
-  -> User can change their password for login in case they forget or their password got leaked. \
+  -> User can change their password for login in case they forget or their password got leaked.  
   
 - Admin panel:  \
   -> Login to site.  \
