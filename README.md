@@ -8,29 +8,29 @@
 
     Pre-requisites: Python, pip and django should be installed in your system. All the coding is done using VScode.
     1. To install the dependencies: \
-       `pip install -r requirements.txt`
-    2. Make the migrations
-        `python manage.py makemigrations`
-    3. Migrate the tables:
-        `python manage.py migrate`
-    4. Create a superuser for your project: 
-        `python manage.py createsuperuser`
-        This will prompt you to enter username, email and password for the superuser.
-    5. Run the server using:
-        `python manage.py runserver`
+       `pip install -r requirements.txt` \
+    2. Make the migrations:\
+        `python manage.py makemigrations` \
+    3. Migrate the tables: \
+        `python manage.py migrate` \
+    4. Create a superuser for your project: \  
+        `python manage.py createsuperuser` \
+        This will prompt you to enter username, email and password for the superuser. \
+    5. Run the server using: \
+        `python manage.py runserver` \
         
-- User panel: 
-  -> Login or register site.
-  -> View the dashboard designed for customerand view their orders and their status.
-  -> View or change their account setting like username, email, profile pic.
-  -> User can change their password for login in case they forget or their password got leaked.
+- User panel: \ 
+  -> Login or register site. \
+  -> View the dashboard designed for customerand view their orders and their status. \
+  -> View or change their account setting like username, email, profile pic. \
+  -> User can change their password for login in case they forget or their password got leaked. \
   
-- Admin panel: 
-  -> Login to site.
-  -> View the dashboard designed for admin. The admin can view all the customers and their respective orders and order status.
-  -> The admin can change the order status, or add, update and delete the customer orders as they need.
-  -> The admin can also add bulk orders for customer (maximum is 10).
-  -> The admin can query through the orders as they need by using different parameters like customer name, date created, start date, end date and given by customer.
+- Admin panel: \
+  -> Login to site. \
+  -> View the dashboard designed for admin. The admin can view all the customers and their respective orders and order status. \
+  -> The admin can change the order status, or add, update and delete the customer orders as they need. \ 
+  -> The admin can also add bulk orders for customer (maximum is 10). \ 
+  -> The admin can query through the orders as they need by using different parameters like customer name, date created, start date, end date and given by customer. \
   
 
 - Login page: 
