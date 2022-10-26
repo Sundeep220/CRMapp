@@ -19,18 +19,18 @@
     5. Run the server using: \
         `python manage.py runserver` 
         
-- User panel: \ 
-  -> Login or register site. \
+- User panel:  \ 
+  -> Login or register site.  \
   -> View the dashboard designed for customerand view their orders and their status. \
   -> View or change their account setting like username, email, profile pic. \
   -> User can change their password for login in case they forget or their password got leaked. \
   
-- Admin panel: \
-  -> Login to site. \
-  -> View the dashboard designed for admin. The admin can view all the customers and their respective orders and order status. \
-  -> The admin can change the order status, or add, update and delete the customer orders as they need. \ 
-  -> The admin can also add bulk orders for customer (maximum is 10). \ 
-  -> The admin can query through the orders as they need by using different parameters like customer name, date created, start date, end date and given by customer. \
+- Admin panel:  \
+  -> Login to site.  \
+  -> View the dashboard designed for admin. The admin can view all the customers and their respective orders and order status.  \
+  -> The admin can change the order status, or add, update and delete the customer orders as they need.  \ 
+  -> The admin can also add bulk orders for customer (maximum is 10).  \ 
+  -> The admin can query through the orders as they need by using different parameters like customer name, date created, start date, end date and given by customer.  \
   
 
 - Login page: 
