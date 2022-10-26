@@ -28,7 +28,7 @@
 - Admin panel:  \
   -> Login to site.  \
   -> View the dashboard designed for admin. The admin can view all the customers and their respective orders and order status.  \
-  -> The admin can change the order status, or add, update and delete the customer orders as they need.  \ 
+  -> The admin can change the order status, or add, update and delete the customer orders as they need. \
   -> The admin can also add bulk orders for customer (maximum is 10). \
   -> The admin can query through the orders as they need by using different parameters like customer name, date created, start date, end date and given by customer. \
   
