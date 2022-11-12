@@ -4,6 +4,10 @@ body{
     background-color: #ebeff5;
 }
 
+.dark{
+    background-color: black;
+  }
+
 #total-orders{
     background-color: #4cb4c7;
 }
